@@ -2,7 +2,7 @@
 # Windows通信ケーブル
 This cable comes bundled with GAME BASIC for SEGA SATURN.<br>
 The cable plugs into the Saturn's Communications port at one end and into a Window computer's RS232 serial port on the other end.<br>
-It uses an NEC D4711B RS-232 line driver/receiver to handle the communications between the Saturn and the Windows machine.<br>
+It uses an [NEC D4711B](Documentation/NEC_UPD4711BGS_Datasheet.pdf) RS-232 line driver/receiver to handle the communications between the Saturn and the Windows machine.<br>
 
 ![Communications Cable](Pictures/Saturn_Windows_Comm_Cable.jpg)
 
