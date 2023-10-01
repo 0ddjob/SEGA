@@ -10,6 +10,11 @@ On the Windows side it uses wires plus shield:<br>
 - white (シロ) wire connected to pin 3 (RS232 Receive)
 - shield (シールド) wire connected to pin 7 (RS232 signal ground) plus shield
 
+The DE9 cable equivalents would be:<br>
+- red (アカ) wire connected to pin 3 (RS232 Transmit)
+- white (シロ) wire connected to pin 2 (RS232 Receive)
+- shield (シールド) wire connected to pin 5 (RS232 signal ground) plus shield
+
 ## Sega Saturn Communication Port (looking at cable)
 I don't know if this is the "official" pinout, but I read that the angled corner is supposed to indicate pin 11/12 and odd-on-top, even-on-bottom.  So this is what I've used.<br>
 ```
