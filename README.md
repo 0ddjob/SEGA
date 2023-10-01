@@ -8,4 +8,5 @@ The Sega Saturn was my first console (apart from my dad's Atari 2600), so has a 
 I did start working on a homebrew SC-3000 ... but an already, far-superior [version](https://github.com/barbeque/sg1000) based on the SG-1000 has already been created.  You just need to add an SK-1100 keyboard ... DIY version also under development.<br>
 
 ## Sega Saturn
-Mostly information about Saturn peripherals & Game BASIC ... coming soon!<br>
+[1] [Windows Communication Cable](https://github.com/0ddjob/SEGA/tree/main/Saturn/Windows_Communication_Cable)<br>
+ 
