@@ -21,7 +21,7 @@ The DE9 cable equivalents would be:<br>
 I don't know if this is the "official" pinout, but I read that the angled corner is supposed to indicate pin 11/12 and odd-on-top, even-on-bottom.  So this is what I've used.<br>
 ```
    11          1
- ________________
+ _________________
 /  | | | | | | | |
 |_|_|_|_|_|_|_|__|
  12           2
