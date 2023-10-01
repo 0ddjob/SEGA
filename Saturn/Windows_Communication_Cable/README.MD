@@ -14,10 +14,10 @@ On the Saturn side it uses three wires plus shield (シールド):<br>
 - red (アカ) to pin 2
 - white (シロ) to pin 5
 - black (クロ) to pin 6
-'''
+```
    11          1<br>
  ________________<br>
 /  | | | | | | | |<br>
 |_|_|_|_|_|_|_|__|<br>
  12           2<br>
- '''
+```
