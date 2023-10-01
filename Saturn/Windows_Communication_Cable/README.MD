@@ -31,3 +31,5 @@ On the Saturn side it uses three wires plus shield:<br>
 - white (シロ) to pin 5
 - black (クロ) to pin 6
 - shield (シールド) to pins 8 & 12 (plus outside shield)
+
+![Saturn Communications Plug](Pictures/Saturn_Communication_Plug.jpg)
