@@ -37,10 +37,10 @@ On the Saturn side it uses three wires plus shield:<br>
 ## Warning
 The cable includes a warning:<br>
 > 本製品を直接パソコンに接続しないでください。<br>
-> パソコンとの接続の仕方はチュートリアルマニュアルをご覧下さい。<br>
+> パソコンとの接続の仕方はチュートリアルマニュアルをご覧下さい。
 
 This translates as:<br>
-> Do not connect this product directly to a computer.
+> Do not connect this product directly to a computer.<br>
 > Please see the tutorial manual for how to connect to a computer.
 
 However the [manual](Documentation/Cable_Instructions_3_ENG.jpg) just details that an RS232 straight-through/modem cable should be used. My guess is that the cable is too short to properly connect the Saturn to your computer, so an extension cable should be used.<br>
