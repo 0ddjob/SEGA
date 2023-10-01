@@ -10,10 +10,6 @@ On the Windows side it uses wires plus shield (シールド):<br>
 
 ## Sega Saturn Communication Port (looking at cable)
 I don't know if this is the "official" pinout, but I read that the angled corner is supposed to indicate pin 11/12 and odd-on-top, even-on-bottom.  So this is what I've used.<br>
-On the Saturn side it uses three wires plus shield (シールド):<br>
-- red (アカ) to pin 2
-- white (シロ) to pin 5
-- black (クロ) to pin 6
 ```
    11          1
  ________________
@@ -21,3 +17,7 @@ On the Saturn side it uses three wires plus shield (シールド):<br>
 |_|_|_|_|_|_|_|__|
  12           2
 ```
+On the Saturn side it uses three wires plus shield (シールド):<br>
+- red (アカ) to pin 2
+- white (シロ) to pin 5
+- black (クロ) to pin 6
