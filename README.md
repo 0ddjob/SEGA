@@ -5,7 +5,7 @@ The Sega Saturn was my first console (apart from my dad's Atari 2600), so has a 
 [1] [RGB amplifier](https://github.com/0ddjob/SEGA/tree/main/Mark_III/RGB_Amp)<br>
 
 ## Sega SC-3000
-On the drawing board ... <br>
+I did start working on a homebrew SC-3000 ... but an already, far-superior [version](https://github.com/barbeque/sg1000) based on the SG-1000 has already been created.  You just need to add an SK-1100 keyboard ... DIY version also under development.<br>
 
 ## Sega Saturn
-Mostly information about Saturn peripherals & Game BASIC<br>
+Mostly information about Saturn peripherals & Game BASIC ... coming soon!<br>
