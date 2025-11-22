@@ -8,7 +8,7 @@
 	)
 	(paper "A5")
 	(title_block
-		(title "Sega Mark III RGB Amplifier")
+		(title "Sega Mark III RGB Amplifier (Internal)")
 		(date "22/NOV/2025")
 		(rev "B")
 		(company "Brett Hallen")
