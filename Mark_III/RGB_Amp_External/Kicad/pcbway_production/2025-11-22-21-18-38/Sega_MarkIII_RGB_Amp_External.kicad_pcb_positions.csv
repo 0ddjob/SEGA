@@ -1,10 +1,10 @@
 ﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
 102.075725,-60.08657,180.0,top,C1,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,100nF,smt
 102.032503,-55.749073,0.0,top,IC1,THS7314DR,,SOIC127P600X175-8N,THS7314D,smt
+89.463503,-52.624073,90.0,top,J1,671-0801,,6710801,RGBS Input,tht
 118.109473,-44.739408,90.0,top,J2,,,DSUB-15-HD_Socket_Horizontal_P2.29x2.54mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm,VGA Out,tht
 119.825568,-68.250768,180.0,top,J3,SJ3-350820B-TR,,SJ3350820BTR,Audio,tht
-92.513503,-76.964073,180.0,top,J4,671-0801,,6710801,RGBS Input,tht
-127.441433,-81.504073,180.0,top,J5,FC68371,,FC68371,Video Out,tht
+127.441433,-81.504073,180.0,top,J4,FC68371,,FC68371,Video Out,tht
 108.823503,-51.304073,180.0,top,R1,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,75Ω,smt
 108.823503,-55.114073,180.0,top,R2,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,75Ω,smt
 108.823503,-58.924073,180.0,top,R3,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,75Ω,smt

@@ -1,9 +1,9 @@
 ﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Height,Manufacturer_Name,Mouser Part Number,Mouser Price/Stock,Description
 C1,1,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,,,,,
 IC1,1,THS7314D,SOIC127P600X175-8N,,THS7314DR,,smt,1.75,Texas Instruments,595-THS7314DR,https://www.mouser.co.uk/ProductDetail/Texas-Instruments/THS7314DR?qs=vD%252BlfiDS0%252BMWkz7XDVK1Ng%3D%3D,
+J1,1,RGBS Input,6710801,,671-0801,,tht,19.5,DELTRON COMPONENTS,,,"Deltron 8 Pole Right Angle Din Socket Socket, 2A, 100 V ac, Lockable"
 J2,1,VGA Out,DSUB-15-HD_Socket_Horizontal_P2.29x2.54mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm,,,,tht,,,,,"15-pin D-SUB connector, socket (female), High density (3 columns), Triple Row, Generic, VGA-connector, Mounting Hole"
 J3,1,Audio,SJ3350820BTR,,SJ3-350820B-TR,,tht,5.3,Same Sky,179-SJ3-350820B-TR,https://www.mouser.co.uk/ProductDetail/Same-Sky/SJ3-350820B-TR?qs=IKkN%2F947nfBCsohFK16iQg%3D%3D,"3.5 mm Stereo Jack, Through Hole, 2 Conductors, 1 Internal Switches,  Tape & Reel Packaging"
-J4,1,RGBS Input,6710801,,671-0801,,tht,19.5,DELTRON COMPONENTS,,,"Deltron 8 Pole Right Angle Din Socket Socket, 2A, 100 V ac, Lockable"
-J5,1,Video Out,FC68371,,FC68371,,tht,14,CLIFF ELECTRONIC COMPONENTS,,,Socket; RCA; female; angled 90; THT; nickel plated; Marker: black
+J4,1,Video Out,FC68371,,FC68371,,tht,14,CLIFF ELECTRONIC COMPONENTS,,,Socket; RCA; female; angled 90; THT; nickel plated; Marker: black
 "R1, R2, R3, R5, R6, R7",6,75Ω,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,,,,,
 R4,1,100Ω,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,,,,,
