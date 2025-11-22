@@ -19,7 +19,7 @@ Design uses:<br>
 - RCA phono jack for composite video output (external)
 - 3.5mm socket for audio output (external)
 
-![Internal PCB mockup](Pictures/Sega_MkIII_RGB_Amp_PCB_2025.png)
+![Internal PCB mockup](RGB_Amp_Internal/Sega_MkIII_RGB_Amp_PCB_2025.png)
 
 ## Status
 22-Nov-2025: completely re-designed the PCB
