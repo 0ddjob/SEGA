@@ -15,4 +15,7 @@ Design uses:<br>
 - 6-pin header for RGBS+power input
 - 5-pin header for RGBS+ground output
 
-![PCB_mockup](Pictures/Sega_MkIII_RGB_Amp_PCB.png)
+![PCB_mockup](Pictures/Sega_MkIII_RGB_Amp_PCB_2025.png)
+
+## Status
+22-Nov-2025: completely re-designed the PCB
